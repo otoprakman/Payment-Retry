@@ -122,4 +122,5 @@ In this blog post, we introduced one of the common problems in payment analytic 
 6) https://stripe.com/en-au/guides/optimizing-authorization-rates
 7) https://www.adyen.com/blog/optimizing-payment-conversion-rates-with-contextual-multi-armed-bandits
 8) https://www.adyen.com/blog/Rescuing-failed-subscription-payments-using-contextual-multi-armed-bandits
+9) https://medium.com/paypal-ai/using-machine-learning-to-improve-payment-authorization-rates-bc3b2cbf4999
 
