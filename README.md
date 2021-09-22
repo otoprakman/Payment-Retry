@@ -121,5 +121,5 @@ In this blog post, we introduced one of the common problems in payment analytic 
 5) https://docs.recurly.com/docs/retry-logic
 6) https://stripe.com/en-au/guides/optimizing-authorization-rates
 7) https://www.adyen.com/blog/optimizing-payment-conversion-rates-with-contextual-multi-armed-bandits
-https://www.adyen.com/blog/Rescuing-failed-subscription-payments-using-contextual-multi-armed-bandits
+8) https://www.adyen.com/blog/Rescuing-failed-subscription-payments-using-contextual-multi-armed-bandits
 
