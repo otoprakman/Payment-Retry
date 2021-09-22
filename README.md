@@ -51,7 +51,7 @@ Association Rule Mining is mainly used for identifying interesting relations bet
 
 We can observe Confidence values which is the conditional probability of rhs given lhs. For example;
 
-<img src="https://latex.codecogs.com/gif.latex?P\left(Transaction\_Status=Declined&space;\;\middle|\;VAR\_E=MPC\right)&space;=&space;0.96\" title="P\left(Transaction\_Status=Approved \;\middle|\;VAR\_D=50\right) = 0.89\" />
+<img src="https://latex.codecogs.com/gif.latex?P\left(Transaction\_Status=Declined&space;\;\middle|\;VAR\_D=50\right)&space;=&space;0.89\" title="P\left(Transaction\_Status=Approved \;\middle|\;VAR\_D=50\right) = 0.89\" />
 
 There are many other rules that are not presented in this blog, it is advised to use this method for better understanding relations between variables.
 
